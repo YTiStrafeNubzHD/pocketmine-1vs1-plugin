@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/YTiStrafeNubzHD/pocketmine-1vs1-plugin.svg)](http://hits.dwyl.io/YTiStrafeNubzHD/pocketmine-1vs1-plugin)
+
 ### 1vs1 plugin by Minifixio
 
 ### Description:
